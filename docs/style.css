@@ -1,3 +1,6 @@
-.boxed {
+.boxedred {
   border: 2px solid red ;
+}
+.boxedblue {
+  border: 2px solid blue ;
 }
