@@ -17,7 +17,8 @@
   border: 2px solid gray ;
 }
 .boxedgreyfill {
-  margin:-16px
+  padding: 0px ;
+  margin: 0px ;
   border: 2px solid gray ;
   background: gray ;
 }
