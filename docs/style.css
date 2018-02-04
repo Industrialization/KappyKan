@@ -13,10 +13,10 @@
   background: blue;
 }
 .boxedgreynofill {
-  border: 2px solid grey ;
+  border: 2px solid gray ;
 }
 .boxedgreyfill {
-  border: 2px solid grey ;
-  background: grey ;
+  border: 2px solid gray ;
+  background: gray ;
 }
 .bigger { font-size:300%; }
