@@ -12,18 +12,15 @@
   border: 2px solid blue ;
   background: blue;
 }
-body, html
-{
+.boxedgreynofill {
+  border: 2px solid gray ;
+}
+.boxedgreyfill {
+  border: 2px solid gray ;
+  background: gray ;
   width: 100%;
   height: 100%;
   padding: 0px;
   margin: 0px;
-  .boxedgreyfill {
-    border: 2px solid gray ;
-    background: gray ;
-  }
-}
-.boxedgreynofill {
-  border: 2px solid gray ;
 }
 .bigger { font-size:300%; }
