@@ -1,6 +1,3 @@
-* {
-    padding: 5px;
-    margin: 5px
 }
 .boxedrednofill {
   border: 2px solid red ;
@@ -19,11 +16,8 @@
 .boxedgreynofill {
   border: 2px solid gray ;
 }
-* {
-    padding: 0px;
-    margin: 0px
-}
 .boxedgreyfill {
+  margin:-16px
   border: 2px solid gray ;
   background: gray ;
 }
