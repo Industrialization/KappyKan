@@ -1,7 +1,22 @@
-.boxedred {
+.boxedrednofill {
   border: 2px solid red ;
 }
-.boxedblue {
+.boxedredfill {
+  border: 2px solid red ;
+  background: red;
+}
+.boxedbluenofill {
   border: 2px solid blue ;
+}
+.boxedbluefill {
+  border: 2px solid blue ;
+  background: blue;
+}
+.boxedgreynofill {
+  border: 2px solid grey ;
+}
+.boxedgreyfill {
+  border: 2px solid grey ;
+  background: grey ;
 }
 .bigger { font-size:300%; }
